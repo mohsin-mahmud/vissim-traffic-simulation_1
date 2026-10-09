@@ -9,7 +9,7 @@
 
 ## 🎥 Simulation Preview
 
-<video src="[Vissim_Simulation.mp4](https://github.com/mohsin-mahmud/vissim-traffic-simulation_1/blob/main/Vissim_Simulation.mp4)" controls="controls" width="100%"></video>
+<video src="https://github.com/mohsin-mahmud/vissim-traffic-simulation_1/raw/refs/heads/main/Vissim_Simulation.mp4" controls="controls" width="100%"></video>
 
 *3D Microscopic view showing non-lane-based heterogeneous traffic, curbside school-pickup queues, median dividers, and corridor progression modeled in PTV Vissim.*
 
